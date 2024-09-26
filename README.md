@@ -24,3 +24,7 @@ HPE GreenLake for Private Cloud Enterprise https://www.hpe.com/in/en/hpe-greenla
 HPE Private Cloud AI https://www.hpe.com/in/en/private-cloud-ai.html
 
 HPE Edge to Cloud https://www.hpe.com/in/en/what-is/edge-to-cloud.html
+
+HPE ProLiant Compute AI Solutions https://www.hpe.com/us/en/servers/proliant-artificial-intelligence.html
+
+HPE GreenLake for Large Language Models https://www.hpe.com/us/en/hpe-greenlake-for-large-language-models.html
